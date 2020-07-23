@@ -1,0 +1,47 @@
+.box{
+  padding:30px;
+  width:170px;
+  color:white;
+  text-align:center;
+  font-weight:bold;
+  font-family:arial;
+}
+.box1{
+  background-color:#3cc9ad;
+}
+.box2{
+  background-color:#2bcc7e;
+}
+.box3{
+  background-color:#459cff;
+}
+.box4{
+  background-color:#b345cc;
+}
+.box5{
+  background-color:#191c2e;
+}
+.box6{
+  background-color:#ffc926;
+}
+.box7{
+  background-color:#e8913a;
+}
+.box8{
+  background-color:#f03e3e;
+}
+.box9{
+  background-color:#b8b8b8;
+}
+.box10{
+  background-color:grey;
+}
+.container{
+  display:flex;
+}
+.container3{
+  display:flex;
+}
+body{
+  margin:0px;
+}
